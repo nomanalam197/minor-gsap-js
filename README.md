@@ -1,3 +1,24 @@
+
+
+
+.
+.
+.
+.
+
+ https://nomanalam197.github.io/minor-gsap-js/
+
+
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/nomanalam197/minor-gsap-js/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
